@@ -23,8 +23,8 @@
   "BOTNAME": "Bot",
   "PREFIX": "?",
   "ADMINBOT": [
-    "YOUR_FB_UID",
-    "OTHER_FB_UID"
+    "61578796876651",
+    "61578796876651"
   ],
   "DESIGN": {
     "Title": "BotPack",
@@ -80,8 +80,4 @@
   "audio": {
     "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
   },
-  "menu": {
-    "autoUnsend": true,
-    "delayUnsend": 60
-  }
-}
+  
