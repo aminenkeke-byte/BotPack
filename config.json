@@ -63,7 +63,7 @@
   "adminUpdate": {
     "autoUnsend": true,
     "sendNoti": true,
-    "timeToUnsend": 10
+"timeToUnsend": 10
   },
   "adminNoti": {
     "autoUnsend": true,
@@ -80,4 +80,8 @@
   "audio": {
     "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
   },
-  
+  "menu": {
+    "autoUnsend": true,
+    "delayUnsend": 60
+  }
+}
